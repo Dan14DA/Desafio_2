@@ -1,4 +1,4 @@
-# Proyecto TelecomX - Predicción de Clientes que se van
+# Proyecto TelecomX - Predicción de Clientes Que Abandonan
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/flacoca1970/Desafio_2/blob/main/TelecomX_LATAM_colab.ipynb)
 
